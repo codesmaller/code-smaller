@@ -1,0 +1,4 @@
+/scripts
+/.pypirc
+temp-*
+__pycache__
