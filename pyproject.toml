@@ -1,6 +1,6 @@
 [project]
 name = "code-smaller"
-version = "0.1.0"
+version = "0.1.1"
 description = "Code-smaller python abstractions"
 authors = [{ name = "Ari Fishman", email = "arifishman39@gmail.com" }]
 readme = "README.md"
